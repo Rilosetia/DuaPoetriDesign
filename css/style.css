@@ -42,23 +42,6 @@ nav a:hover {
   border-bottom: 2px solid #ffd700;
 }
 
-.section { padding: 48px 0; }
-.container { width: min(1100px, 92%); margin: 0 auto; }
-.section-title { text-align: center; margin-bottom: 18px; }
-
-.tiktok-wrap{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 10px;
-}
-
-/* optional: biar embed tidak terlalu “mekar” */
-.tiktok-embed{
-  max-width: 605px !important;
-  width: 100% !important;
-}
-
 /* HERO SECTION */
 #hero {
   background: url("../images/gambar1.jpg") no-repeat center center / cover;
